@@ -72,15 +72,6 @@ export default connect()
               </React.Fragment>
             )
           }
-
-          if (modal.type === 'about') {
-            return <About />
-          }
-
-          if (modal.type === 'developer') {
-            return modal.data === 'voakie' ? <Voakie /> : <Sam />
-          }
-
           return null
         }
 

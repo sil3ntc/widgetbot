@@ -2,9 +2,9 @@ import { ThemeProvider } from 'emotion-theming'
 import { connect } from 'fluent'
 import * as React from 'react'
 
-import About from './About'
+
 import Authenticate from './Authenticate'
-import { Sam, Voakie } from './Developer'
+
 import { Box, Close, Image, OpenImage, Root } from './elements'
 import { OpenVideo, Video } from './elements/video'
 

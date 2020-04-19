@@ -8,7 +8,8 @@ WidgetBot is a pixel-perfect open-source Discord chat widget for your website. I
 
 ## Building Embed & Server
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-I deployed this on Heroku. Becuase that how i could get it to work being a noob.
+
+I deployed this on Heroku. Becuase that's how I could get it to work being a noob.
 
 
 ## Contributors
